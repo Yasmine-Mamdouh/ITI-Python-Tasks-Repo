@@ -4,22 +4,22 @@ This repository contains various **Python scripts** designed to solve different 
 
 ## Repository Contents  
 
-### 1️⃣ [User Info Input and Display](https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo/tree/main/User-Info-Input-Display)  
+### 1️⃣ [User Info Input and Display](https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo/tree/master/Py-Day-1)  
    - Scripts for handling user input and displaying structured information.  
 
-### 2️⃣ [Python Scripting for IT Operations](https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo/tree/main/IT-Operations)  
+### 2️⃣ [Python Scripting for IT Operations](https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo/tree/master/Py-Day-2)  
    - Automating essential IT-related tasks and processes.  
 
-### 3️⃣ [Python Scripting for Server Management](https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo/tree/main/Server-Management)  
+### 3️⃣ [Python Scripting for Server Management](https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo/tree/master/Py-Day-3)  
    - Scripts for managing and interacting with servers.  
 
-### 4️⃣ [Python Scripting for File Handling](https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo/tree/main/File-Handling)  
+### 4️⃣ [Python Scripting for File Handling](https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo/tree/master/Py-Day-4)  
    - Handling files, reading/writing operations, and data manipulation.  
 
-### 5️⃣ [Python Scripting for Excel and File Operations](https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo/tree/main/Excel-File-Operations)  
+### 5️⃣ [Python Scripting for Excel and File Operations](https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo/tree/master/Py-Day-5)  
    - Automating Excel tasks and managing different file formats.  
 
-### 6️⃣ [Python Scripting for Various Tasks](https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo/tree/main/Others)  
+### 6️⃣ [Python Scripting for Various Tasks](https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo/tree/master/Others)  
    - General-purpose scripts for different types of programming challenges (e.g., temperature conversion, multiplication table generation).  
 
 ## 🚀 How to Use  
