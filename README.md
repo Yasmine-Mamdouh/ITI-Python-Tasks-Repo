@@ -42,12 +42,12 @@ This repository contains various **Python scripts** designed to solve different 
 - Generating multiplication tables for any given number.   
 
 ## How to Use  
-1. Clone the repository:  
+### 1. Clone the repository:  
    ```bash
    git clone https://github.com/Yasmine-Mamdouh/ITI-Python-Tasks-Repo.git
    ```  
-2. Navigate to the required script directory.  
-3. Run the script using Python:  
+### 2. Navigate to the required script directory.  
+### 3. Run the script using Python:  
    ```bash
    python script_name.py
    ```  
